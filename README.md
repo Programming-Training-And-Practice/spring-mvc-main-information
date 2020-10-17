@@ -8,6 +8,7 @@
 * [About.](#about)
 * [Documentation.](#documentation)
 * [Useful URLs.](#useful-urls)
+* [Spring MVC Annotations.](spring-mvc-annotations.md)
 * [Model View Controller (MVC).](#model-view-controller-mvc)
 * [Benefits.](#benefits)
 * [Components of Spring MVC Application.](#components-of-spring-mvc-application)
