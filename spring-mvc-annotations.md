@@ -36,11 +36,36 @@
 
 ## Annotations.
 
-| Annotation                                            | Description                                                                                |
-| ----------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| @Controller                                           |                                                                                            |
-| @RequestMapping                                       |                                                                                            |
-|                                                       |                                                                                            |
+| Annotation                                            | Description                                                                                                              |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| @Controller                                           |                                                                                                                          |
+| @RequestMapping                                       |                                                                                                                          |
+| @CookieValue                                          |                                                                                                                          |
+| @CrossOrigin                                          |                                                                                                                          |
+| @GetMapping                                           |                                                                                                                          |
+| @PostMapping                                          |                                                                                                                          |
+| @PutMapping                                           |                                                                                                                          |
+| @PatchMapping                                         |                                                                                                                          |
+| @DeleteMapping                                        |                                                                                                                          |
+| @ExceptionHandler                                     |                                                                                                                          |
+| @InitBinder                                           |                                                                                                                          |
+| @Mapping                                              |                                                                                                                          |
+| @Mappings                                             |                                                                                                                          |
+| @MatrixVariable                                       |                                                                                                                          |
+| @PathVariable                                         |                                                                                                                          |
+| @RequestAttribute                                     |                                                                                                                          |
+| @RequestBody                                          |                                                                                                                          |
+| @RequestHeader                                        |                                                                                                                          |
+| @RequestParam                                         |                                                                                                                          |
+| @RequestPart                                          |                                                                                                                          |
+| @ResponseBody                                         |                                                                                                                          |
+| @ResponseStatus                                       |                                                                                                                          |
+| @ControllerAdvice                                     |                                                                                                                          |
+| @RestController                                       |                                                                                                                          |
+| @RestControllerAdvice                                 |                                                                                                                          |
+| @SessionAttribute                                     |                                                                                                                          |
+| @SessionAttributes                                    |                                                                                                                          |
+|                                                       |                                                                                                                          |
 
 
 

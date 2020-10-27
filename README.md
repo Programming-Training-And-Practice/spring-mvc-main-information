@@ -15,8 +15,8 @@
 * [Controller.](#controller)
 * [Model.](#model)
 * [View Template.](#view-template)
-* [Application Context.](#application-context)
-* [Web Application Context.](#web-application-context)
+* [Application Context.](https://github.com/descriptions-of-it-technologies/spring-framework/blob/master/additional-files/application-context.md)
+* [Web Application Context.](https://github.com/descriptions-of-it-technologies/spring-mvc/blob/master/additional-files/web-application-context.md)
 * [Help.](#help)
 
 
@@ -106,18 +106,6 @@
 * Others view templates supported.
   * Thymeleaf, Groovy.
   * Velocity, Freemarker, Mustache, etc...
-
-
-
-
-
-## Application Context.
-
-
-
-
-
-## Web Application Context
 
 
 
